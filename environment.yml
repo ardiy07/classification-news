@@ -1,0 +1,11 @@
+name: clasification-news
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - pip
+  - jupyter
+  - numpy
+  - nltk
+  - scikit-learn
+  - pandas
